@@ -1,5 +1,5 @@
 {
-  "name": "helpersjs",
+  "name": "helpers.js",
   "version": "1.0.0",
   "description": "A collection of 'helper' functions that could useful in a project.",
   "main": "src/main.js",

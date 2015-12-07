@@ -1,7 +1,7 @@
 {
   "name": "helpersjs",
   "version": "1.0.0",
-  "description": "A list of 'helper' functions that could useful in a project.",
+  "description": "A collection of 'helper' functions that could useful in a project.",
   "main": "src/main.js",
   "author": "danjford <github.com/danjford>",
   "contributors": [],

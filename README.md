@@ -1,8 +1,8 @@
 Helpers.js
 ==
 
-[![Build Status](https://travis-ci.org/danjford/Helpersjs.svg?branch=master)](https://travis-ci.org/danjford/Helpersjs)
-[![codecov.io](https://codecov.io/github/danjford/Helpersjs/coverage.svg?branch=master)](https://codecov.io/github/danjford/Helpersjs?branch=master)
+[![Build Status](https://travis-ci.org/danjford/helpersjs.svg?branch=master)](https://travis-ci.org/danjford/helpersjs)
+[![codecov.io](https://codecov.io/github/danjford/helpersjs/coverage.svg?branch=master)](https://codecov.io/github/danjford/helpersjs?branch=master)
 
 ### About
 
